@@ -8,7 +8,9 @@ Eight datasets are used in this paper.
 5) the wind speed dataset from the University of California Merced covers 1958 to 2022 with a monthly temporal resolution. The dataset has a spatial resolution of 4638.3 meters. The access link of this dataset is: https://developers.google.com/earth-engine/datasets/catalog/IDAHO_EPSCOR_TERRACLIMATE 
 6) monthly datasets of evapotranspiration and precipitation were provided by the University of California Merced from 1958 to 2022 at a spatial resolution of 4638.3 meters. The access link of this dataset is: https://developers.google.com/earth-engine/datasets/catalog/IDAHO_EPSCOR_TERRACLIMATE 
 7) the Palmer Drought Severity Index (PDSI) dataset, which also comes from the University of California Merced with monthly temporal resolution. The PDSI has a spatial resolution of 4638.3 meters; the dataset provides global coverage of monthly values from 1958 to 2022.  The access link of this dataset is: https://developers.google.com/earth-engine/datasets/catalog/IDAHO_EPSCOR_TERRACLIMATE
-8) the land use dataset of 2010 The dataset has a 1:25000 scale and is uploaded here. 
-#Citation information
+8) the land use dataset of 2010 The dataset has a 1:25000 scale and is uploaded here.
+
+
+# Citation information
 Please cite following papar when using Forest_Monitoring in your research.
 Mehri, S., Alesheikh, A.A. & Lotfata, A. Abiotic factors impact on oak forest decline in Lorestan Province, Western Iran. Sci Rep 14, 3973 (2024). https://doi.org/10.1038/s41598-024-54551-6
